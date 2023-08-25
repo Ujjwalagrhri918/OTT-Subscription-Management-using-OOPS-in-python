@@ -1,2 +1,3 @@
-# OTT-Subscription-Management-using-OOPS-in-python
-This project aims to consolidate different OTT platforms and provide a single dashboard to manage subscriptions. The Project has a notification system to alert users when their subscriptions are about to expire. The modules used are: 1. tkinter 2. Selenium webdriver  3. Selenium.webdriver.common.by 4. Time  5.Win10toast 
+# OTT-Subscription-Management-using-OOP-in-python
+Download all the files and unzip them.
+After that run the entry.py file which is main file here. It will give a simple web scrapping model using python.
